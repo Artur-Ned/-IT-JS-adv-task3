@@ -1,0 +1,48 @@
+body {
+   background-color: rgb(153, 150, 145);
+
+}
+
+div {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: blanchedalmond;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 380px;
+    /* height: 120px; */
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: space-around;
+    border-radius: 10px;
+   
+}
+
+#counter{
+/* width: 100%; */
+margin-top: 20px;
+margin-bottom: 20px;
+font-size: 30px;
+border-radius: 10px;
+background-color: aqua;
+color: red;
+border: none;
+text-align: center;
+}
+
+
+button {
+    font-size: 30px;
+    color: blue;
+    background-color: gold;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+
+}
