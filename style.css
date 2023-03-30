@@ -31,7 +31,6 @@ background-color: aqua;
 color: red;
 border: none;
 text-align: center;
-
 }
 
 
@@ -44,10 +43,6 @@ button {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
-}
+    
 
-button:hover {
-    cursor: pointer;
-    background-color:rgba(105, 91, 15, 0.943);
-    color: beige;
 }

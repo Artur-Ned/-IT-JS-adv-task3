@@ -1,0 +1,37 @@
+body {
+    background-color: rgba(232, 235, 219, 0.9);
+    position: relative;
+}
+
+p {
+    font-size: 20px;
+    color: brown;
+    margin: 0px;
+}
+
+.div_after {
+    color: blue;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.list {
+    color: rgb(244, 7, 7);
+    font-size: 20px;
+}
+
+.task {
+border: 2px solid brown;
+width: 378px;
+height: auto;
+padding: 20px;
+position: absolute;
+left: 18%;
+top: 30%;
+color: bisque;
+background-color: rgba(0, 0, 0, 0.6)
+
+}
+
+
