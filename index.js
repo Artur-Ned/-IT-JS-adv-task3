@@ -20,9 +20,11 @@ function ticTak() {
 }  
     
 function start() {    
-    timeForCounter = 0;
-    counter.value = timeForCounter;
+    // timeForCounter = 0;
+    // counter.value = timeForCounter;
+    reset()
     // ЧТОБЫ ВИЗУАЛЬНО С 1 СТАРТОВАЛО А ТО СРАЗУ 2
+    
     ticTak();   
 }
 
